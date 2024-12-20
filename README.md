@@ -1,59 +1,51 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Fake News Prediction
+The development of a Fake News Prediction System, designed to identify and classify unreliable news articles using machine learning techniques. This system aims to enhance information authenticity, empower users to detect misinformation, and contribute to creating a more informed online community.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Fake News Prediction System is a project designed to combat the spread of misinformation by leveraging advanced machine learning algorithms. With the rise of digital news consumption, distinguishing between credible information and fake news has become increasingly challenging. This system simplifies the verification process by analyzing and classifying news articles based on their content.
+
+Using natural language processing (NLP) techniques and trained machine learning models, the system evaluates textual data to predict its authenticity. Users can input news articles, and the system will provide an accurate prediction of whether the content is reliable or fake. This project aims to enhance digital literacy, support responsible news sharing, and foster a trustworthy online environment.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Utilizes advanced machine learning techniques for fake news detection.
+- A framework-based application designed for easy deployment using Flask.
+- High scalability for processing large volumes of news articles.
+- Optimized for efficient performance with low time complexity.
+- Supports reliable predictions using pre-trained models saved in .pkl format.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
+* Operating System: Compatible with Windows 10/11, Ubuntu, or macOS for running machine learning applications.
+* Development Environment: Python 3.8 or later for building and executing the fake news prediction system.
+* Machine Learning Libraries: Scikit-learn for model training and evaluation, Pandas for data manipulation, and NumPy for numerical computations.
+* Framework: Flask for developing a deployable web-based application.
+* Visualization Tools: Matplotlib and Seaborn for visualizing class distributions and model performance metrics.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Dependencies: Required packages include scikit-learn, Matplotlib, Pandas, NumPy, and Flask.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![architecture diagram](https://github.com/user-attachments/assets/8a46e373-446f-4cf8-afe1-a4a6a547c11c)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Login Page
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot 2024-10-20 150659](https://github.com/user-attachments/assets/20aa2c36-a6f4-450d-8351-12e1780ec6bc)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Output
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+![Screenshot 2024-10-20 150758](https://github.com/user-attachments/assets/1b2d4105-ce79-40a8-a603-02c4c99dcd1a)
 
+Detection Accuracy: 25%
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Fake News Prediction System significantly contributes to combating the spread of misinformation by accurately identifying unreliable news articles. Its integration of natural language processing and machine learning demonstrates its effectiveness in analyzing and classifying textual data with high precision.
+
+This project fosters a more informed and responsible digital environment by empowering users to verify news credibility before sharing. It serves as a foundation for further advancements in misinformation detection technologies, promoting trust and authenticity in online information sharing.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+1. Ritu, "Preserving Information Integrity: A Novel Machine Learning Approach for Fake News Detection," 2023 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC), Tumkur, India, 2023, pp. 1-6, doi: 10.1109/ICMNWC60182.2023.10435836. Conference Location: Tumkur, India.
+2. "Fake News Detection: A Systematic Review" Kalyani, S. M., & Satheesh, S. (2021). Journal of King Saud University - Computer and Information Sciences,doi:https://doi.org/10.1016/j.jksuci.2021.04.010
